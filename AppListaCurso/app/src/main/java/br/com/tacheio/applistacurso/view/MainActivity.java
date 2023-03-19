@@ -1,8 +1,10 @@
-package br.com.tacheio.applistacurso;
+package br.com.tacheio.applistacurso.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import br.com.tacheio.applistacurso.R;
 
 public class MainActivity extends AppCompatActivity {
 
