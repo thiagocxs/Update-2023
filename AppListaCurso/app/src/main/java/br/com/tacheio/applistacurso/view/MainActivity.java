@@ -18,6 +18,9 @@ public class MainActivity extends AppCompatActivity {
         //comentário
 
         pessoa = new Pessoa();
-
+        pessoa.setPrimeiroNome("Thiago de Castro");
+        pessoa.setSobreNome("Xavier da Silveira");
+        pessoa.setCursoDesejado("Android");
+        pessoa.setTelefoneContato("61998551737");
     }
 }
